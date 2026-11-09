@@ -1,3 +1,4 @@
 # sandbox-whats-api- Adiciona descrição do sandbox
 - Adiciona nota de uso
 - Nota 1
+- Nota 2
