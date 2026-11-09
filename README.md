@@ -2,3 +2,4 @@
 - Adiciona nota de uso
 - Nota 1
 - Nota 2
+- Nota 3
